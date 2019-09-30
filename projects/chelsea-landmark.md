@@ -11,6 +11,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms (65 to 110 pounds).
+W             **bananowe**             owoce rosną z             **bananów**             kwiat w klastrach wiszące, zwany także grono lub             **banana** macierzystych. Owoce rosną w rzędach zwanych poziomami lub rozkładach. W jednej ręce mogą być dostępne aż do dwudziestu owoców, a wiązka może być nawet dwadzieścia rzędów. Pęczek zwykle waży od 30 do 50 kilogramów (65 do 110 funtów).
 
 ![](/uploads/mike-dorner-173502-unsplash.jpg)
